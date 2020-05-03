@@ -12,4 +12,6 @@
 
 - 在Shotgun创建 AMI
 
+- AMI URL: http://localhost:5000
+
 ...
