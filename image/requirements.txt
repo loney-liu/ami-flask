@@ -1,0 +1,2 @@
+flask
+git+git://github.com/shotgunsoftware/python-api.git
